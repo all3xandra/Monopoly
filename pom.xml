@@ -2,7 +2,7 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 <modelVersion>4.0.0</modelVersion> 
   <groupId>upv-ehu-iso2</groupId> 
-  <artifactId>Monopoly23</artifactId> 
+  <artifactId>MonopolyIC22</artifactId> 
   <version>0.0.1-SNAPSHOT</version> 
 <build> 
     <plugins> 
@@ -38,10 +38,11 @@
 <properties> 
     <maven.compiler.target>1.8</maven.compiler.target> 
     <maven.compiler.source>1.8</maven.compiler.source> 
-    <sonar.organization>jononekin</sonar.organization> 
+    <sonar.organization>all3xandra</sonar.organization> 
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>   
-    <sonar.projectKey>your sonarcloud project key name</sonar.projectKey>   
-    <sonar.login>your code</sonar.login>  
+    <sonar.projectKey>
+MonopolyIC22</sonar.projectKey>   
+    <sonar.login>3e84452d619226c6f395dee2772d85a87ec0b7ac</sonar.login>  
 </properties> 
  
 <!-- https://mvnrepository.com/artifact/junit/junit --> 
